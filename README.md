@@ -1,2 +1,0 @@
-# EndSemProject
-Repository for EndSemProject
